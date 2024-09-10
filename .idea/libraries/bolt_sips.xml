@@ -1,0 +1,15 @@
+<component name="libraryTable">
+  <library name="bolt_sips" type="mix">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/_build/dev/lib/bolt_sips/ebin" />
+      <root url="file://$PROJECT_DIR$/_build/dev/lib/bolt_sips/ebin" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="file://$PROJECT_DIR$/deps/bolt_sips/lib" />
+      <root url="file://$PROJECT_DIR$/deps/bolt_sips/lib" />
+      <root url="file://$PROJECT_DIR$/deps/bolt_sips/lib" />
+      <root url="file://$PROJECT_DIR$/deps/bolt_sips/lib" />
+    </SOURCES>
+  </library>
+</component>
